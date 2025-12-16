@@ -1,0 +1,13 @@
+{
+  "input_file": "path/to/input.jsonl",
+  "output_file": "path/to/output.jsonl",
+  "repo_path": "path/to/repo",
+  "model_name": "gpt-4o",
+  "api_key": "your-api-key-here",
+  "api_base": "https://api.openai.com/v1",
+  "max_steps": 10,
+  "max_workers": 1,
+  "save_trajectory": true,
+  "trajectory_dir": "path/to/trajectories"
+}
+
