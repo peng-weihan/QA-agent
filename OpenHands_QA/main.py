@@ -12,7 +12,7 @@ from openhands.sdk.event import MessageEvent, ActionEvent, ObservationEvent
 # 配置
 LLM_CONFIG = {
     "model": "gpt-4.1-mini",
-    "api_key": "sk-Xr5Mfi9JCZco8hPg22250d274dDb455bB40dA0Fc3b492dA6",
+    "api_key": "sk-8oLW67tXvQHoOaPJ55F88e021f124aF9B8B2C4E02d05Ce7c",
     "base_url": "https://aihubmix.com/v1",
     "usage_id": "agent"  # 使用 usage_id 替代已弃用的 service_id
 }
@@ -21,32 +21,12 @@ LLM_CONFIG = {
 REPOS_CONFIG = [
     {
         "name": "reflex",
-        "workspace": "/home/ugproj/raymone/swe-repos/reflex",
-        "input_file": "/data2/raymone/questions/reflex.jsonl"
+        "workspace": "",
+        "input_file": ""
     },
-    # {
-    #     "name": "streamlink",
-    #     "workspace": "/home/ugproj/pwh/swebench-repos/streamlink",
-    #     "input_file": "/data2/raymone/questions/streamlink.jsonl"
-    # },
-    # {
-    #     "name": "conan",
-    #     "workspace": "/home/ugproj/raymone/swe-repos/conan",
-    #     "input_file": "/data2/raymone/questions/conan.jsonl"
-    # }
-    # {
-    #     "name": "astropy",
-    #     "workspace": "/home/ugproj/pwh/swebench-repos/astropy",
-    #     "input_file": "/data2/raymone/questions/astropy.jsonl"
-    # },
-    # {
-    #     "name": "scikit-learn",
-    #     "workspace": "/home/ugproj/pwh/swebench-repos/scikit-learn",
-    #     "input_file": "/data2/raymone/questions/scikit-learn.jsonl"
-    # },
 ]
 
-OUTPUT_DIR = "/data2/raymone/answer/OpenHands_v1"
+OUTPUT_DIR = ""
 MAX_ITERATION_PER_RUN = 10
 MAX_TIME_PER_QUESTION = 60  # 每个问题的最大处理时间（秒），默认10分钟
 

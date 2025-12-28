@@ -3,7 +3,7 @@
     "output_file": "/data2/raymone/answer/gpt-4.1-mini/SWE-Agent-20/reflex.jsonl",
     "repo_path": "/home/ugproj/wyh/repos/reflex",
     "model_name": "gpt-4.1-mini",
-    "api_key": "sk-Xr5Mfi9JCZco8hPg22250d274dDb455bB40dA0Fc3b492dA6",
+    "api_key": "",
     "api_base": "https://aihubmix.com/v1",
     "max_steps": 20,
     "max_workers": 8,
