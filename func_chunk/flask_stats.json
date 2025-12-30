@@ -1,0 +1,23 @@
+{
+  "repository": "flask",
+  "processing_time": 1.5343608856201172,
+  "statistics": {
+    "processed_count": 47,
+    "error_count": 0,
+    "total_count": 47,
+    "skipped_count": 0,
+    "retrieved_counts": {
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "median": 10
+    },
+    "cost_times": {
+      "min": 0.3257148265838623,
+      "max": 1.27402925491333,
+      "avg": 0.8879898811908479,
+      "median": 1.0966804027557373,
+      "total": 41.73552441596985
+    }
+  }
+}

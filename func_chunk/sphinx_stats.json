@@ -1,0 +1,23 @@
+{
+  "repository": "sphinx",
+  "processing_time": 1.7851967811584473,
+  "statistics": {
+    "processed_count": 48,
+    "error_count": 0,
+    "total_count": 48,
+    "skipped_count": 0,
+    "retrieved_counts": {
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "median": 10.0
+    },
+    "cost_times": {
+      "min": 0.3348264694213867,
+      "max": 1.2711710929870605,
+      "avg": 0.8709305723508199,
+      "median": 1.0810233354568481,
+      "total": 41.804667472839355
+    }
+  }
+}

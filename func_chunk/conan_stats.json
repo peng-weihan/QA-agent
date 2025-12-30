@@ -1,0 +1,23 @@
+{
+  "repository": "conan",
+  "processing_time": 1.708178997039795,
+  "statistics": {
+    "processed_count": 48,
+    "error_count": 0,
+    "total_count": 48,
+    "skipped_count": 0,
+    "retrieved_counts": {
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "median": 10.0
+    },
+    "cost_times": {
+      "min": 0.33171939849853516,
+      "max": 1.2117984294891357,
+      "avg": 0.8431897511084875,
+      "median": 1.0636125802993774,
+      "total": 40.4731080532074
+    }
+  }
+}

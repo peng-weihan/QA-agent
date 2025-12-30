@@ -1,0 +1,23 @@
+{
+  "repository": "django",
+  "processing_time": 5.335922002792358,
+  "statistics": {
+    "processed_count": 48,
+    "error_count": 0,
+    "total_count": 48,
+    "skipped_count": 0,
+    "retrieved_counts": {
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "median": 10.0
+    },
+    "cost_times": {
+      "min": 0.8220522403717041,
+      "max": 4.559596538543701,
+      "avg": 3.0520120908816657,
+      "median": 3.809519648551941,
+      "total": 146.49658036231995
+    }
+  }
+}

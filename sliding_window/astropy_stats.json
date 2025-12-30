@@ -1,0 +1,23 @@
+{
+  "repository": "astropy",
+  "processing_time": 1.6820528507232666,
+  "statistics": {
+    "processed_count": 1,
+    "error_count": 0,
+    "total_count": 48,
+    "skipped_count": 47,
+    "retrieved_counts": {
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "median": 10
+    },
+    "cost_times": {
+      "min": 1.5934844017028809,
+      "max": 1.5934844017028809,
+      "avg": 1.5934844017028809,
+      "median": 1.5934844017028809,
+      "total": 1.5934844017028809
+    }
+  }
+}

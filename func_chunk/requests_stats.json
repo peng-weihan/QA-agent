@@ -1,0 +1,23 @@
+{
+  "repository": "requests",
+  "processing_time": 2.2568130493164062,
+  "statistics": {
+    "processed_count": 48,
+    "error_count": 0,
+    "total_count": 48,
+    "skipped_count": 0,
+    "retrieved_counts": {
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "median": 10.0
+    },
+    "cost_times": {
+      "min": 0.3393547534942627,
+      "max": 1.9824955463409424,
+      "avg": 1.3289067894220352,
+      "median": 1.2869502305984497,
+      "total": 63.78752589225769
+    }
+  }
+}
