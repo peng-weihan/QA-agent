@@ -12,7 +12,7 @@ from openhands.sdk.event import MessageEvent, ActionEvent, ObservationEvent
 # 配置
 LLM_CONFIG = {
     "model": "gpt-4.1-mini",
-    "api_key": "sk-8oLW67tXvQHoOaPJ55F88e021f124aF9B8B2C4E02d05Ce7c",
+    "api_key": os.getenv("LLM_API_KEY", ""),  # 从环境变量读取 API key
     "base_url": "https://aihubmix.com/v1",
     "usage_id": "agent"  # 使用 usage_id 替代已弃用的 service_id
 }
@@ -619,7 +619,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-# CUSTOM_LLM_MODEL= "deepseek/gpt-4.1-mini"
-# CUSTOM_LLM_API_BASE="https://aihubmix.com/v1"
-# CUSTOM_LLM_API_KEY="sk-Xr5Mfi9JCZco8hPg22250d274dDb455bB40dA0Fc3b492dA6"
